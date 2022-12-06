@@ -2,7 +2,6 @@
 December Advent of Code Challenges
 Link: https://adventofcode.com/2022/about
 # Daily Problem Set Instructions Below
-## Days separated by "-----" 
 
 ## Day 1 
 ### Part I
