@@ -338,7 +338,7 @@ nppdvjthqldpwncqszvftbrmjlhg: first marker after character 6
 nznrnfrfntjfmvfwmzdfjlvtqnbhcprsg: first marker after character 10
 zcfzfwzzqfrljwzlrfnpqdbhtmscgvjw: first marker after character 11
 How many characters need to be processed before the first start-of-packet marker is detected?
-# Part II
+### Part II
 Your device's communication system is correctly detecting packets, but still isn't working. It looks like it also needs to look for messages.
 
 A start-of-message marker is just like a start-of-packet marker, except it consists of 14 distinct characters rather than 4.
@@ -428,7 +428,6 @@ As the outermost directory, / contains every file. Its total size is 48381165, t
 To begin, find all of the directories with a total size of at most 100000, then calculate the sum of their total sizes. In the example above, these directories are a and e; the sum of their total sizes is 95437 (94853 + 584). (As in this example, this process can count files more than once!)
 
 Find all of the directories with a total size of at most 100000. What is the sum of the total sizes of those directories?
-
 ### Part II
 The total disk space available to the filesystem is 70000000. To run the update, you need unused space of at least 30000000. You need to find a directory you can delete that will free up enough space to run the update.
 
