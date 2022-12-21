@@ -526,3 +526,11 @@ This tree's scenic score is 8 (2 * 2 * 1 * 2); this is the ideal spot for the tr
 
 Consider each tree on your map. What is the highest scenic score possible for any tree?
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+[day4.xlsx](https://github.com/a-morrow/AdventOfCode/files/10280179/day4.xlsx)
+[day5.xlsx](https://github.com/a-morrow/AdventOfCode/files/10280180/day5.xlsx)
+[day6.txt](https://github.com/a-morrow/AdventOfCode/files/10280181/day6.txt)
+[day7.xlsx](https://github.com/a-morrow/AdventOfCode/files/10280183/day7.xlsx)
+[day8.xlsx](https://github.com/a-morrow/AdventOfCode/files/10280184/day8.xlsx)
+[day1.xlsx](https://github.com/a-morrow/AdventOfCode/files/10280185/day1.xlsx)
+[day2.xlsx](https://github.com/a-morrow/AdventOfCode/files/10280186/day2.xlsx)
+[day3.xlsx](https://github.com/a-morrow/AdventOfCode/files/10280187/day3.xlsx)
