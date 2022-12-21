@@ -447,7 +447,7 @@ Find the smallest directory that, if deleted, would free up enough space on the 
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## Day 8 Treetop Tree House 
+## Day 8: Treetop Tree House 
 ### Part I
 The expedition comes across a peculiar patch of tall trees all planted carefully in a grid. The Elves explain that a previous expedition planted these trees as a reforestation effort. Now, they're curious if this would be a good location for a tree house.
 
@@ -460,6 +460,7 @@ The Elves have already launched a quadcopter to generate a map with the height o
 65332
 33549
 35390
+
 Each tree is represented as a single digit whose value is its height, where 0 is the shortest and 9 is the tallest.
 
 A tree is visible if all of the other trees between it and an edge of the grid are shorter than it. Only consider trees in the same row or column; that is, only look up, down, left, or right from any given tree.
@@ -490,6 +491,7 @@ In the example above, consider the middle 5 in the second row:
 65332
 33549
 35390
+
 Looking up, its view is not blocked; it can see 1 tree (of height 3).
 Looking left, its view is blocked immediately; it can see only 1 tree (of height 5, right next to it).
 Looking right, its view is not blocked; it can see 2 trees.
@@ -503,6 +505,7 @@ However, you can do even better: consider the tree of height 5 in the middle of 
 65332
 33549
 35390
+
 Looking up, its view is blocked at 2 trees (by another tree with a height of 5).
 Looking left, its view is not blocked; it can see 2 trees.
 Looking down, its view is also not blocked; it can see 1 tree.
